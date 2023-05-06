@@ -1,15 +1,17 @@
 # Data-Project
 Code for BigQuery Analysis
 
-# GitHub Codespaces ♥️ Jupyter Notebooks
- In this activity, I used SQL and Google Dataflow to combine and move the key datasets I identified for the Cyclistic project into a target table. This is an ETL process to create a pipelinepipeline, when data is pulled from different sources and moved to its destination.I later used the table I created in this activity to develop the final dashboard for stakeholders.
+
+#In this activity, I used SQL and Google Dataflow to combine and move the key datasets I identified for the Cyclistic project into a target table. This is an ETL process to create a pipelinepipeline, when data is pulled from different sources and moved to its destination.I later used the table I created in this activity to develop the final dashboard for stakeholders***.
 
  Context:The product development team at Cyclistic has begun developing their business plan for next year. In order to build a better Cyclistic, the team needs to understand how customers are currently using the bikes, how location and other factors impact demand, and what stations get the most traffic. The Cyclistic team has a few goals:
 
 Understand current customers needs, what makes a successful product, and how new stations might alleviate demand in different geographical areas
 
 Understand current usage of bikes at different locations ,Apply customer usage insights to inform new station growth , Understand how different users (subscribers and non-subscribers) use the bikes
-uploaded the necessary tables into your BigQuery project space. 
+uploaded the necessary tables into your BigQuery project space.#
+
+
 
 
 
